@@ -15,8 +15,8 @@ Group 104: 5 members (Girls)
 Group 105: 8 members (5 boys + 3 girls)
 
 2. Hostel Information CSV (hostel_file):
-Contains details about hostel rooms, including the hostel name, room number, capacity, and gender accommodation.
-Example entries:
+- Contains details about hostel rooms, including the hostel name, room number, capacity, and gender accommodation.
+- Example entries:
 Boys Hostel A, Room 101: Capacity 3 (Boys)
 Boys Hostel A, Room 102: Capacity 4 (Boys)
 Girls Hostel B, Room 201: Capacity 2 (Girls)
@@ -37,31 +37,31 @@ The application generates a CSV file with room allocation details, which users c
 # Instructions to Run the Application:
 
 1. Environment Setup:
-Ensure Python is installed on your machine.
-Install required Python packages using:
-pip install flask pandas
+- Ensure Python is installed on your machine.
+- Install required Python packages using:
+- pip install flask pandas
 
-2. Project Structure:
+3. Project Structure:
 Digitalization of the Hospitality Process
 ├── web.py
 ├── index.html
 ├── style.css
 └── uploads/ (directory to save uploaded files)
 
-3. Create Directories:
+4. Create Directories:
 Create an “uploads/” directory within your project folder to store uploaded files.
 
-4. Add Files:
+5. Add Files:
 Place your “web.py” file in the root directory of the project.
 
-5. Run the Application:
-Navigate to the project directory in your terminal.
-Start the Flask application with:
-python web.py
-Access the application in your web browser
+6. Run the Application:
+- Navigate to the project directory in your terminal.
+- Start the Flask application with:
+- python web.py
+- Access the application in your web browser
 
 7. Usage:
-Upload the group information CSV file.
-Upload the hostel information CSV file.
-Click the “Upload (Allocate Rooms)” button to process the files.
-Download the resulting CSV file with room allocation details.
+- Upload the group information CSV file.
+- Upload the hostel information CSV file.
+- Click the “Upload (Allocate Rooms)” button to process the files.
+- Download the resulting CSV file with room allocation details.

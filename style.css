@@ -1,0 +1,49 @@
+#GULAM DASTGIR SHAIKH - CA-061009061439 (IITB Techfest Task)
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: fit-content;
+    padding: 30px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(62, 61, 61, 0.1);
+    border-radius: 8px;
+    text-align: center;
+    align-content: center;
+    margin-top: 150px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: rgb(120, 177, 214);
+    font-weight: bolder;
+
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    width: fit-content;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #0b0b0b;
+}

@@ -5,9 +5,9 @@ The “Digitalization of the Hospitality Process” web application streamlines 
 
 # File Descriptions:
 1. Group Information CSV (group_file):
-Contains data about groups with a common ID.
-Each row specifies the group ID, the number of members, and their gender (boys or girls).
-Example entries:
+- Contains data about groups with a common ID.
+- Each row specifies the group ID, the number of members, and their gender (boys or girls).
+- Example entries:
 Group 101: 3 members (Boys)
 Group 102: 4 members (Girls)
 Group 103: 2 members (Boys)

@@ -1,6 +1,6 @@
 # Digitalization of the Hospitality Process 
 
-# Application Overview:
+# Overview:
 The “Digitalization of the Hospitality Process” web application streamlines group accommodation by allowing users to upload two CSV files: one containing group information and the other containing hostel details. The goal is to allocate rooms efficiently while ensuring that group members with the same ID stay together and adhere to gender-specific accommodations and hostel capacities.
 
 # File Descriptions:
